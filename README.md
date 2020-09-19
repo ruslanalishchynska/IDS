@@ -4,7 +4,7 @@ IDS with CICIDS2017 dataset based on tree-based classifiers
 This work is dedicated to Intrusion Detection Systems for IoT
 Environments based on Network Traffic Analysis. 
 It is important to choose the appropriate method of identification of
-modern attacks. The aim of this thesis work is to demonstrate the abilities of
+modern attacks. The aim of this work is to demonstrate the abilities of
 tree-based classification algorithms for Intrusion Detection Systems and to
 provide the reasons why these classification algorithms are highly suitable
 for considered problem.
